@@ -15,7 +15,7 @@ This is an API that you can run locally and get data for Minecraft items and blo
 
 ### 1. Clone the repository. If you plan to make changes, create a fork first!
 ```bash
-git clone https://github.com/PetarMc1/Minecraft-Item-API
+git clone https://github.com/PetarMc1/Minecraft-Items-API
 ```
 
 ### 2. Install all required dependencies.
