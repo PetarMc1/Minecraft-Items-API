@@ -37,7 +37,7 @@ npm start
     
 You can access the API documentation by navigating to a specific URL in your web  browser.
 
-1. Open your web browser and type http://localhost:PORT/api-docs in the address bar, replacing PORT with the port number your API is running on.
+1. Open your web browser and type http://localhost:PORT/api-docs in the address bar, replacing PORT with the port number the API is running on.
     
 ### 6. Using the api.
 
@@ -48,6 +48,8 @@ You can make requests directly from Swagger UI by clicking on the endpoint you w
 Swagger will send the request to the API server and display the response, allowing you to inspect the data returned by the API.
 
 
+# Contributing
+Check [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 # Licence
 This project is licensed under the [Mit License](/LICENSE) - see the LICENSE file for details.
