@@ -1,0 +1,14 @@
+Version 1.0.0
+- Added files via upload
+
+    - Uploaded the main app.js
+    - Uploaded the port customization file
+    - Uploaded the swagger config
+    - Uploaded package.json
+    - Uploaded Data needed for the API to function
+  
+Version 1.1.0
+- Fixed a link typo in README.md
+- Crated CONTRIBUTING.md
+- Created CHANGELOG
+- Added a 'Contributing' part in the README
