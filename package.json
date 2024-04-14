@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-item-api",
+  "name": "minecraft-items-api",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node api/app.js"
   },
   "keywords": ["Minecraft", "API"],
-  "author": "",
+  "author": "Petar_mc",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",

@@ -12,3 +12,9 @@ Version 1.1.0
 - Crated CONTRIBUTING.md
 - Created CHANGELOG
 - Added a 'Contributing' part in the README
+
+Version 1.1.1
+- Made changes to package-lock.json
+- Updated swagger-ui-express from 4.6.3 to 5.0.0
+- Made some changes to CONTRIBUTING.md
+- Updated the Version in swagger.json

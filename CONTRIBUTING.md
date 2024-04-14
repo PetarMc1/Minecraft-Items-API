@@ -1,6 +1,6 @@
 # Contributing Guide
 How to Contribute
-Thank you for considering contributing to the Minecraft-Items-API! I appreciate your help in making the API better.
+Thank you for considering contributing to the Minecraft-Items-API project! I appreciate your help in making the API better.
 
 ## Submitting Contributions
 
