@@ -1,5 +1,5 @@
 # Minecraft-Item-API
-## NO LONGER SUPPORTED. WORKING ON A BETTER VERSION
+## This project has reached end of life and is no longer maintained.
 ![Discord](https://img.shields.io/discord/1217057211575042058?logo=Discord&label=Discord&color=blue&link=https%3A%2F%2Fdiscord.gg%2FPB5YnEypPE)
 ![GitHub Tag](https://img.shields.io/github/v/tag/PetarMc1/Minecraft-Items-API?label=version&color=darkred)
 ![License](https://img.shields.io/github/license/PetarMc1/Minecraft-Items-API)
